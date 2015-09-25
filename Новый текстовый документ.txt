@@ -1,4 +1,2 @@
 print ("Hello, World")
 alert ("NOO")
-print ("Hello, World1")
-alert ("NOO1")
