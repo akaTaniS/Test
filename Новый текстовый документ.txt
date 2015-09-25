@@ -1,3 +1,2 @@
 print ("Hello, World")
 alert ("NOO")
-print ("yes")
